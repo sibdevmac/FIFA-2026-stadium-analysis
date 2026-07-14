@@ -377,6 +377,4 @@ rather than optimizing a single objective.
 # Author
 Sibankar Saha
 
-This project is intended for educational and portfolio purposes.
-
 ---
